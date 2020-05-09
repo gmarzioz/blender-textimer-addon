@@ -9,7 +9,7 @@ bl_info = {
     'version': (0, 1),
     'blender': (2, 7, 9),
     'location': 'Properties Editor, Text Context',
-    'url': 'https://github.com/boombatower/blender-texttimer-addon',
+    'url': 'https://github.com/gmarzioz/blender-texttimer-addon',
     'category': 'Text'}
 
 
